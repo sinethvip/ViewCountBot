@@ -1,7 +1,7 @@
 # View Count Bot
 for more help   
    
-join our channel[channel](https://t.me/SL_bot_zone)
+join our channel [channel](https://t.me/SL_bot_zone)
    
    
 Join [@BotzHub](https://t.me/slbotzone)
