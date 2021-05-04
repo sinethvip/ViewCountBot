@@ -1,7 +1,7 @@
 # View Count Bot
 for more help   
    
-[channel](https://t.me/SL_bot_zone) is why this repo exists.   
+join our channel[channel](https://t.me/SL_bot_zone)
    
    
 Join [@BotzHub](https://t.me/slbotzone)
