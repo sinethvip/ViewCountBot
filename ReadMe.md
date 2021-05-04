@@ -1,5 +1,5 @@
 # View Count Bot
-Adds a view count to the message you send.   
+for more help   
    
 [channel](https://t.me/SL_bot_zone) is why this repo exists.   
    
